@@ -1,0 +1,31 @@
+body {
+	background-color: #3a3a3a;
+	font-family: Arial, sans-serif;
+	font-weight: normal;
+	font-size: 20px;
+	text-transform: uppercase;
+	padding-right: 15px;
+}
+
+#slogan {
+	font-weight: bold;
+	font-size: 48px;
+}
+
+h1, h2 {
+	color: #ccc7cd;
+	font-size: 24px;
+	font-family: Arial, sans-serif;
+	font-weight: italic;
+}
+hr {
+  width: 400px;
+  line-height: 2px;
+  color: ##fd433e;
+  
+p {
+	color: #ccc7cd;
+	font-size: 18px;
+	font-family: Arial, sans-serif;
+	font-weight: normal;
+}
