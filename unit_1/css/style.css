@@ -1,7 +1,11 @@
 body {
-background-color: #cfc7c7;
+background-color: #da3636;
+font-family: Arial, sans-serif;
+font-size: 9px;
 }
 
-h1, p {
-color: #5f4968;
+h1, p, a {
+color: #e3e6eb;
+font-family: Arial, sans-serif;
+font-size: 22px;
 }
