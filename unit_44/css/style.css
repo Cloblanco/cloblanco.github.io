@@ -1,0 +1,35 @@
+body{
+  text-align: center;
+  background: #fff;
+  background: url("http://c2.staticflickr.com/6/5192/7099173405_b13d4e683c_b.jpg");
+  background-size: cover;
+  color: #fff;
+  font-family: Helvetica;
+}
+hr {
+  width: 200px;
+}
+p {
+  font-size: 1em;
+	line-height: 1em;
+	margin: 2em;
+  font-color: #cccccc
+}
+h1 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 2em;
+  color: #cccccc;
+}
+h2 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 1em;
+  color: #cccccc;
+}
+h3 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: .5em;
+  color: #fd433e;
+}
