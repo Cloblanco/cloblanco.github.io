@@ -3,33 +3,55 @@ body{
   background: #fff;
   background: url("http://c2.staticflickr.com/6/5192/7099173405_b13d4e683c_b.jpg");
   background-size: cover;
-  color: #fff;
+  color: #cccccc;
   font-family: Helvetica;
 }
 hr {
-  width: 200px;
+  width: 230px;
 }
 p {
   font-size: 1em;
-	line-height: 1em;
+  letter-spacing: .25em;
+	line-height: 1.2em;
 	margin: 2em;
   font-color: #cccccc
 }
 h1 {
   text-align: center;
+  line-height: 1.2em;
   font-family: Arial, sans-serif;
   font-size: 2em;
   color: #cccccc;
 }
 h2 {
   text-align: center;
+  line-height: 1.2em;
   font-family: Arial, sans-serif;
   font-size: 1em;
   color: #cccccc;
 }
 h3 {
   text-align: center;
+  line-height: 1.2em;
+  margin:4em;
+  background-color: fd433e;
   font-family: Arial, sans-serif;
+  font-size: 0.8em;
+  color: #cccccc;
+}
+h4 {
+  text-align: center;
+  line-height: 1.2em;
+  font-family: Arial, sans-serif;
+  letter-spacing: .25em;
   font-size: .5em;
-  color: #fd433e;
+  color: #cccccc;
+}
+a {
+  background-color: #fd433e;
+  line-height: 1em; 
+  display:inline-block;
+}
+span {
+  background-color: #fd433e;
 }
